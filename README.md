@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **adibrahim27@gmail.com**
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1g-qKMEzaJtn6IkmTEJayb4qy4dXAl8lA/edit](https://docs.google.com/document/d/1g-qKMEzaJtn6IkmTEJayb4qy4dXAl8lA/edit)
+- 📄 Know about my experiences: 
 
 - ⚡ Fun fact: **Im a twin!**
 
