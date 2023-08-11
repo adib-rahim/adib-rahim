@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MTA BusAPP](https://mta-bus-app.herokuapp.com/)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me: **adibrahim27@gmail.com**
 
