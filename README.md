@@ -1,15 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Adib</h1>
 <h3 align="center">I have a passion for learning and trying new things.</h3>
 
-- 🔭 I’m currently working on [MTA BusAPP](https://mta-bus-app.herokuapp.com/)
-
-- 🌱 I’m currently learning **C#**
-
 - 📫 How to reach me: **adibrahim27@gmail.com**
 
-- 📄 Know about my experiences: 
 
-- ⚡ Fun fact: **Im a twin!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
